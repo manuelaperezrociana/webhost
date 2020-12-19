@@ -805,7 +805,7 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
     .page-section p { margin-bottom: 0px; }
     .page-title { font-size: 30px; }
     .page-btn { margin-top: 0px; }
-    .space-medium { padding-top: 35px; padding-bottom: 30px; }
+    .space-medium { padding-top: 3px; padding-bottom: 30px; }
     .content { padding-top: 35px; padding-bottom: 30px; }
     .doc-section { padding-top: 30px; padding-bottom: 30px; }
     .testimonial-img { padding-left: 44px; }
