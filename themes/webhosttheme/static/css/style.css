@@ -76,7 +76,7 @@ h6 { font-size: 12px; }
 p { margin: 0 0 24px; line-height: 1.8; }
 p:last-child { margin: 0px; }
 ul, ol { list-style: none; margin: 0; padding: 0; }
-a { text-decoration: none; color: #252d3a; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; }
+a { text-decoration: none; color: #f15427; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; }
 a:focus, a:hover { text-decoration: none; color: #f15427; }
 sub { bottom: 0em; }
 .lead { font-size: 22px; font-weight: 500; line-height: 1.6; font-family: 'Fira Sans', sans-serif; color: #252d3a; margin-bottom: 30px; }
