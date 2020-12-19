@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "header.html" . -}}
+
+        <div class="space-medium">
+            <div class="container">
+                <div class="row">
+                    <div class="plan-content">
+                        <h2>{{ .Title }}</h2>
+                        <p>{{ .Content }}</p>
+                        <ul>
+                            {{ range .Pages.ByDate.Reverse }}
+                              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                            {{ end }}
+                          </ul>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    </div>
+                </div>
+    
+            </div>
+        </div>
+        </div>
+        {{- partial "footer.html" . -}}
+    </body>
+</html>
