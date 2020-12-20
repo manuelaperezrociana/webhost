@@ -11,7 +11,8 @@
                         <p>{{ .Content }}</p>
                         <ul>
                             {{ range .Pages.ByDate.Reverse }}
-                              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                            </li>
                             {{ end }}
                           </ul>
                     </div>

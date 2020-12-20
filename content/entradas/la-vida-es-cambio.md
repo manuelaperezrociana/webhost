@@ -1,6 +1,7 @@
 ---
 title: "La Vida Es Cambio"
 draft: false
+description: Filosofía estoica explicando que la vida es cambio y no debemos temerla.
 ---
 
 Suelo recibir en mi buzón casi a diario un [boletín Estoico](https://dailystoic.com/new-start-here/), hoy cuando repaso mi bandeja leo el título, "la vida es cambio, el cambio es bueno", y tiene razón en parte, porque está bien el cambio para no permanecer anclados, pero en su justa medida, si el cambio es demasiado rápido provoca etrés si es lento, produce aburrimiento.
