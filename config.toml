@@ -6,3 +6,7 @@ theme = "webhosttheme"
 [params]
   author = "Sponville"
   description = "Mi diario"
+
+[taxonomies]
+  categoria = "categorias"
+  etiqueta = "etiquetas"

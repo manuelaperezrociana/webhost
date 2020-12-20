@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Quintaentrada"
 description: "Descripción"
-date: {{ .Date }}
+date: 2020-12-20T13:10:10+01:00
 draft: false
 author: Sponville
 Categorias:
