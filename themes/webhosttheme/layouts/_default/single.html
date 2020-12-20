@@ -9,6 +9,10 @@
                     <div class="plan-content">
                         <h2>{{ .Title }}</h2>
                         <p>{{ .Content }}</p>
+                        <section class="comments">
+                            <h3>Comentarios:</h3>
+                            {{- partial "disqus.html" . -}}
+                          </section>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     </div>
