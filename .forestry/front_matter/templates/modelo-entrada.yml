@@ -21,4 +21,5 @@ fields:
   name: Etiquetas
   label: Etiquetas
 pages:
+- content/entradas/el-futuro-de-mi-trabajo.md
 - content/entradas/tolerancia.md
