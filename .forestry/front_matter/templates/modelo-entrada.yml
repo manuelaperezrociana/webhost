@@ -20,3 +20,5 @@ fields:
 - type: list
   name: Etiquetas
   label: Etiquetas
+pages:
+- content/entradas/tolerancia.md
