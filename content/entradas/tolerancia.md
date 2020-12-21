@@ -4,7 +4,6 @@ Etiquetas = ["Tolerancia"]
 author = "Sponville"
 date = 2020-12-20T23:00:00Z
 description = "Una noche mala la tiene cualquiera, pero si es obligado a tenerla con alguien con quien no deseas, hay que hacer un ejercicio de tolerancia."
-draft = true
 title = "Tolerancia"
 
 +++
