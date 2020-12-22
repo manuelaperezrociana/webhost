@@ -7,9 +7,11 @@ description = "Arquitectura de mi pueblo, algunas fachadas."
 title = "Ventanas"
 
 +++
-![](/uploads/ventana-fachada1.jpg)
+Mi pueblo tiene un pasado de agricultura en la que algunos terratenientes y vinicultores construyeron algunas casas bastante bonitas.
 
-Mi pueblo tiene un pasado de agricultura en la que algunos terratenientes y vinicultores construyeron algunas casas que son bastante bonitas. En la calle principal hay fachadas con ventanas forjadas que recuerdan aquella época pasada. Estas son algunos detalles.
+En la calle principal hay fachadas con ventanas forjadas que recuerdan aquella época pasada. Estas son algunas fotos que he hecho para captar algunos detalles.
+
+![](/uploads/ventana-fachada1.jpg)
 
 ![](/uploads/ventana-fachada2.jpg)
 
