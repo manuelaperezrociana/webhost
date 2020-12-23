@@ -1,6 +1,6 @@
 ---
 title: "Derecho a La Intimidad"
-description: "Descripción"
+description: "Ser transparente o no serlo en internet, contarlo todo o guardar la intimidad, ¿A qué hay que tener miedo?"
 date: 2020-12-23T16:42:55+01:00
 draft: false
 author: Sponville
