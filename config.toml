@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://midiario.ga/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Mi diario"
 theme = "webhosttheme"
 
 [params]
