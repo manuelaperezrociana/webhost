@@ -8,12 +8,18 @@
                     <div class="plan-content">
                         <h2>{{ .Title }}</h2>
                         <p>{{ .Content }}</p>
+
                         <ul>
-                          {{ range .Data.Terms.Alphabetical }}
-                            <br><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-                            <span class="count">({{ .Count }})</span>
-                          {{ end }}
-                          </ul>
+                            {{ $type := .Type }}
+                            {{ range $key, $value := .Data.Terms.Alphabetical }}
+                                {{ $name := .Name }}
+                                {{ $count := .Count }}
+                                {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+                                    <li><a href="{{ .Permalink }}">{{ $name }}</a> {{ $count }}</li>
+                                {{ end }}
+                            {{ end }}
+                        </ul>
+
                           {{ template "_internal/pagination.html" . }}
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">

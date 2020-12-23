@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informatica on My New Hugo Site</title>
+    <link>http://example.org/etiquetas/informatica/</link>
+    <description>Recent content in Informatica on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Dec 2020 16:42:55 +0100</lastBuildDate><atom:link href="http://example.org/etiquetas/informatica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Derecho a La Intimidad</title>
+      <link>http://example.org/entradas/derecho-a-la-intimidad/</link>
+      <pubDate>Wed, 23 Dec 2020 16:42:55 +0100</pubDate>
+      
+      <guid>http://example.org/entradas/derecho-a-la-intimidad/</guid>
+      <description>Tengo amigos que están profundamente preocupados con su &amp;ldquo;derecho a la intimidad&amp;rdquo;, no tienen Facebook, no quieren que se les haga fotos y se muestran muy reacios a todo este tipo de opotunidades que da internet para darse a conocer.
+También hay periodistas, abogados e intelectuales que defienden el derecho a la intimidad y a preservar lo que las grandes compañias tecnológicas va sabiendo de nosotros por nuestras búsquedas, o rastros de cosas que hacemos en la red.</description>
+    </item>
+    
+    <item>
+      <title>Un Paso Atras</title>
+      <link>http://example.org/entradas/un-paso-atras/</link>
+      <pubDate>Sun, 20 Dec 2020 21:39:41 +0100</pubDate>
+      
+      <guid>http://example.org/entradas/un-paso-atras/</guid>
+      <description>A veces es importante dar un paso atrás, sobre todo para no quemarse. En ocasiones ya sea cuando una afición o algo me gusta mucho he llegado tan lejos que me ha dolido y hasta me he agotado. Esta tarde de domingo he seguido estudiando Hugo y he avanzado más cosas como saber poner etiquetas en las entradas, comentarios e incluso formulario de contacto. Pero es como una droga, cuanto más consigo más lejos quiero llegar hasta que me caigo en el primer bache y cuando he querido practicar lo aprendido &amp;hellip; me he dado un batacazo provocando decepción.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trabajo on My New Hugo Site</title>
+    <link>http://example.org/etiquetas/trabajo/</link>
+    <description>Recent content in Trabajo on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 23:00:00 +0000</lastBuildDate><atom:link href="http://example.org/etiquetas/trabajo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El futuro de mi trabajo</title>
+      <link>http://example.org/entradas/el-futuro-de-mi-trabajo/</link>
+      <pubDate>Sun, 20 Dec 2020 23:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/entradas/el-futuro-de-mi-trabajo/</guid>
+      <description>A medida que se acerca el final, esperemos, de la pandemia que nos ha obligado a muchos dejar las oficinas de trabajo y volver nuestras casas, me pregunto si quiero hacer el camino inverso cuando todo esto acabe. La verdad es que el principal motivo para seguir teletrabajando desde mi casa (en el pueblo) es el cuidado de mis padres, pero por otro lado es la independencia a organizar mi vida y mis tareas de una forma más libre, efectiva y razonable que encerrado en 4 paredes.</description>
+    </item>
+    
+  </channel>
+</rss>

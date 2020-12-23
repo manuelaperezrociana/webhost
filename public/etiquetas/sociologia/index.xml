@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sociologia on My New Hugo Site</title>
+    <link>http://example.org/etiquetas/sociologia/</link>
+    <description>Recent content in Sociologia on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Dec 2020 16:42:55 +0100</lastBuildDate><atom:link href="http://example.org/etiquetas/sociologia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Derecho a La Intimidad</title>
+      <link>http://example.org/entradas/derecho-a-la-intimidad/</link>
+      <pubDate>Wed, 23 Dec 2020 16:42:55 +0100</pubDate>
+      
+      <guid>http://example.org/entradas/derecho-a-la-intimidad/</guid>
+      <description>Tengo amigos que están profundamente preocupados con su &amp;ldquo;derecho a la intimidad&amp;rdquo;, no tienen Facebook, no quieren que se les haga fotos y se muestran muy reacios a todo este tipo de opotunidades que da internet para darse a conocer.
+También hay periodistas, abogados e intelectuales que defienden el derecho a la intimidad y a preservar lo que las grandes compañias tecnológicas va sabiendo de nosotros por nuestras búsquedas, o rastros de cosas que hacemos en la red.</description>
+    </item>
+    
+    <item>
+      <title>En el hospital</title>
+      <link>http://example.org/entradas/quintaentrada/</link>
+      <pubDate>Sun, 20 Dec 2020 13:10:10 +0100</pubDate>
+      
+      <guid>http://example.org/entradas/quintaentrada/</guid>
+      <description>Acompaño a mi padre que está convaleciente tras una operación donde le han puesto un marcapasos. Se encuentra bien, y creemos que mañana lunes pueden darle de alta. Con 89 años que más quisiera llegar yo a esa edad. Si tiene una pronta recuperación lo mismo está mejor que hace unos meses y puede volver a salir de casa e ir a la plaza para ver a sus amigos.
+Aquí en el hospital hay toda una fauna de personajes, la mayoría del personal sanitario es amable y vuelvo a confirmar que para trabajar aquí se necesita mucha empatía.</description>
+    </item>
+    
+  </channel>
+</rss>

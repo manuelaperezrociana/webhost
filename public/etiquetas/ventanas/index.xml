@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ventanas on My New Hugo Site</title>
+    <link>http://example.org/etiquetas/ventanas/</link>
+    <description>Recent content in Ventanas on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 23:00:00 +0000</lastBuildDate><atom:link href="http://example.org/etiquetas/ventanas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ventanas</title>
+      <link>http://example.org/entradas/ventanas/</link>
+      <pubDate>Mon, 21 Dec 2020 23:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/entradas/ventanas/</guid>
+      <description>Mi pueblo tiene un pasado de agricultura en la que algunos terratenientes y vinicultores construyeron algunas casas bastante bonitas.
+En la calle principal hay fachadas con ventanas forjadas que recuerdan aquella época pasada. Estas son algunas fotos que he hecho para captar algunos detalles.</description>
+    </item>
+    
+  </channel>
+</rss>

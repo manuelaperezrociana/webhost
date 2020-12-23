@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salud on My New Hugo Site</title>
+    <link>http://example.org/etiquetas/salud/</link>
+    <description>Recent content in Salud on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Dec 2020 23:00:00 +0000</lastBuildDate><atom:link href="http://example.org/etiquetas/salud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ese dolor tan profundo</title>
+      <link>http://example.org/entradas/ese-dolor-tan-profundo/</link>
+      <pubDate>Tue, 22 Dec 2020 23:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/entradas/ese-dolor-tan-profundo/</guid>
+      <description>No recuerdo cuando fue la primera vez, tal vez cuando tenía 20 años, un día sentí un dolor en los intestinos, más exactamente en el mismo ano, tan profundo y doloroso que me asusté mucho, duró un par de minutos que se hicieron eternos. Dada mi personalidad hipocondríaca se lo pregunté a mi madre y me dijo que ella también los había sufrido, y no le dio importancia. Pasaron algunos meses y se volvió a repetir.</description>
+    </item>
+    
+  </channel>
+</rss>

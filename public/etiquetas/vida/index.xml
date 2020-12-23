@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vida on My New Hugo Site</title>
+    <link>http://example.org/etiquetas/vida/</link>
+    <description>Recent content in Vida on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 13:10:10 +0100</lastBuildDate><atom:link href="http://example.org/etiquetas/vida/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Muerte</title>
+      <link>http://example.org/entradas/muerte/</link>
+      <pubDate>Sun, 20 Dec 2020 13:10:10 +0100</pubDate>
+      
+      <guid>http://example.org/entradas/muerte/</guid>
+      <description>La muerte siempre presente como parte de la vida, pero lo peor no es la muerte en sí, un hecho irremediable, es el miedo a la no existencia a perder la vida, ese milagro maravilloso que sucede en la tierra y que unos seres, no solo los humanos, sino animales, plantas y todos los&amp;hellip; mismamente seres vivos compartimos. Nuestros sentimientos nuestro aliento.
+Muchas noches me acecha esta preocupación, desde que era niño, aunque cuando era un crio la veía lejana, sentia miedo y alguna vez se lo confesé a mi madre y ella me dijo que no pensara en eso, que todavía &amp;ldquo;quedaba mucho tiempo&amp;rdquo;, pero ahora cuando el tiempo, no es -mucho- sino menos del que he vivido, cuando voy cuesta abajo descontando los años, uno a uno quien sabe si son muchos, pocos&amp;hellip; tengo miedo,</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categorias on My New Hugo Site</title>
+    <link>http://example.org/categorias/</link>
+    <description>Recent content in Categorias on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Dec 2020 16:42:55 +0100</lastBuildDate><atom:link href="http://example.org/categorias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pensamientos</title>
+      <link>http://example.org/categorias/pensamientos/</link>
+      <pubDate>Wed, 23 Dec 2020 16:42:55 +0100</pubDate>
+      
+      <guid>http://example.org/categorias/pensamientos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>http://example.org/categorias/personal/</link>
+      <pubDate>Wed, 23 Dec 2020 16:42:55 +0100</pubDate>
+      
+      <guid>http://example.org/categorias/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salud</title>
+      <link>http://example.org/categorias/salud/</link>
+      <pubDate>Tue, 22 Dec 2020 23:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categorias/salud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trabajo</title>
+      <link>http://example.org/categorias/trabajo/</link>
+      <pubDate>Sun, 20 Dec 2020 23:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categorias/trabajo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formación</title>
+      <link>http://example.org/categorias/formaci%C3%B3n/</link>
+      <pubDate>Sun, 20 Dec 2020 21:39:41 +0100</pubDate>
+      
+      <guid>http://example.org/categorias/formaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
