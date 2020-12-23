@@ -3,16 +3,23 @@
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-
         <div class="space-medium">
             <div class="container">
                     <div class="plan-content">
                         <h2>{{ .Title }}</h2>
-                        <p><strong>Escrito por  {{ .Params.Author }} y publicado el {{ .Date.Format "2 January de 2006" }}</p></strong></p>
                         <p>{{ .Content }}</p>
+                        <ul>
+                          {{ range .Data.Terms.Alphabetical }}
+                          <p class="etiquetas">
+                            <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                            <span class="count">({{ .Count }})</span>
+                          </p>
+                          {{ end }}
+                          </ul>
+                          {{ template "_internal/pagination.html" . }}
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    </div>
+                    </div>   
             </div>
         </div>
         </div>

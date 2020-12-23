@@ -1,6 +1,7 @@
 ---
 title: "8 meses aquí"
 draft: false
+date: 2020-12-20T20:39:41+01:00
 ---
 Han pasado 8 meses desde que me vine al pueblo después de que la pandemia me forzara a teletrabajar de casa, mi hermano me propuso que lo mismo que hacía en Sevilla lo podía hacer en el pueblo y además mis padres no estarían solos, y lo comprendí que era lo mejor para todos.
 
