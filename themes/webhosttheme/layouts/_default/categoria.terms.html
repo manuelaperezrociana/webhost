@@ -10,10 +10,8 @@
                         <p>{{ .Content }}</p>
                         <ul>
                           {{ range .Data.Terms.Alphabetical }}
-                          <p class="etiquetas">
-                            <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                            <br><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
                             <span class="count">({{ .Count }})</span>
-                          </p>
                           {{ end }}
                           </ul>
                           {{ template "_internal/pagination.html" . }}
