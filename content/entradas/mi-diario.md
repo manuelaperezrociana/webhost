@@ -1,6 +1,6 @@
 +++
 Categorias = []
-Etiquetas = []
+Etiquetas = ["Diario"]
 author = "Sponville"
 date = 2020-12-19T23:00:00Z
 description = ""
