@@ -1,17 +1,18 @@
 ---
-title: "Derecho a La Intimidad"
-description: "Ser transparente o no serlo en internet, contarlo todo o guardar la intimidad, ¿A qué hay que tener miedo?"
-date: 2020-12-23T16:42:55+01:00
-draft: false
+title: Derecho a La Intimidad
+description: Ser transparente o no serlo en internet, contarlo todo o guardar la intimidad,
+  ¿A qué hay que tener miedo?
+date: 2020-12-23T16:42:55.000+01:00
 author: Sponville
 Categorias:
 - Personal
 - Pensamientos
 Etiquetas:
+- Intimidad
 - Informatica
 - Sociologia
-- Intimiedad
 - Internet
+
 ---
 Tengo amigos que están profundamente preocupados con su "derecho a la intimidad", no tienen Facebook, no quieren que se les haga fotos y se muestran muy reacios a todo este tipo de opotunidades que da internet para darse a conocer.
 
