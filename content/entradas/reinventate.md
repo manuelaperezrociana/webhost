@@ -1,0 +1,24 @@
++++
+Categorias = ["", "trabajo"]
+Etiquetas = ["Trabajo", "Linkedin"]
+author = ""
+date = 2020-12-24T23:00:00Z
+description = "La presión de tener sobrevivir y trabajar en un múndo \"líquido\" en el que todo cambia y nada es estable,"
+title = "Reinvéntate"
+
++++
+Hoy entraba en la red social LinkedIn y leía las actualizaciones de los profesionales que sigo, la mayoría les conozco en persona, y me sorprendo de sus capacidades, y sus actuales puestos de trabajo en empresas tecnológicas o de la consultoría. Me quedo empequeñecido con sus actuales carreras, pienso en segundo plano en sus sueldos, pero lo que más "envidio" es su capacidad de adaptación o como han sabido formarse y ejercer en campos que se me escapan de mi conocimiento por su complejidad. También pienso que el haberme alejado de Sevilla ha perjudicado el que pueda seguir en contacto con ellos, con su experiencia y, sobre todo, su influencia.
+
+Recuerdo hace dos años cuando estuve desempleado viviendo aquí en el pueblo, empecé un master sobre Big Data creyendo que, iluso de mí, al ser un trabajo de alta demanda podría encontrar empleo en ese campo. Me llenaron la cabeza de "pajaritos" diciendo que no importaba si no tenía experiencia o formación en informática, matemáticas o estadística, pues no, a costa de pagar unos miles de euros, te hubieran regalado los oidos y así fue; durante unos meses intenté seguir el ritmo pero el final del master me estrellé.
+
+Hoy en Linkedin he compartido una publicación llamada **_"Reinvéntate"_** con el subtítulo **Trabaja en lo que puedas pero no dejes de buscar lo que quieres, aunque sea un minuto al día.** Y tiene gracia porque si me paro a pensar es lo que estoy haciendo ahora, estoy trabajando en lo que he podido, manteniendo webs de empresas, pero dedico algún tiempo en seguir descubriendo y formándome en cosas que me parecen interesantes, aunque no estén muy maduras en su desarrollo o no sea muy buscado o demandado.Voy a poner sus recomendaciones que enumero y comento:
+
+* **Elige un camino.** Define objetivos concretos para motivarte y comprobar tus avances. _Comentario:_ Estoy pensando como rescatar mis contactos antiguos, que no me olviden para proyectos que puedo llegar a colaborar y ganar con ellos dinero.. Voy a intentar usar el crm de contactos que tengo para ir refrescándolos. En cuanto a los objetivos de seguir aprendiendo, ahora estoy con Hugo, un CMS, para hacer web estáticas que aún no está maduro, pero con el que estoy aprendiendo cosas. Por ahora, eso, seguir aprendiendo, si dejo el trabajo porque me exigan volver a Sevilla, intentaré estudiar otra cosa, pero intentaré que sea más acordes a mi formación y capacidades, no como pasó con el master en Big Data.
+* **Descubre:** Si no conoces tus metas o pasiones, indaga alternativas y analiza tus intereses y competencias actuales. _Comentario_: Si, en eso es lo que paso mucho tiempo, cuando leo artículos que me invitan a experimentar otras pasiones dentro de las tecnologías.
+* **Experimenta:** Antes de decidir o invertir, da  pasos pequeños. Experimenta, y empieza actividades nuevas y baratas. _Comentario:_ Puede que experimente como crear APP para móviles y si me atasco haga un curso de pago para ampliar mi perfil profesional, Con las páginas webs ya estoy tocando fondo.
+* **Especialízate.** La vocación no se espera, se construye. Te puede interesar casi todo si le das una oportunidad. Comentario. Me tengo que centrar. Ahora me estoy especializando en Hugo. ¿Sigo profundizando? Tendría que ver oportunidades de negocio en este camino, sin no para que dibujar con humo en el cielo?
+* **Dedica tiempo**. No esperes una chispa, piensa en llenar un embalse. Cuanto más conozca una materia más motivado estarás.
+* **Haz networking.** Si quieres consejos diferentes pídelos a personas diferentes. El mejor networking es más working que net.
+* **Persigue tus pasiones**. Haz más lo que te gusta hacer mientras haces lo que tienes que hacer. Persigue tus intereses pero cumple tus obligaciones. _Comentario._ Esto se refiere a mi actual trabajo: No puedo descuidarlo, tengo que seguir haciéndolo según me están pagando, y dejar las pasiones para mi tiempo libre, o puedo perder la base de mi actual sostén de vida.
+* **Aprende habilidades.** Los profesionales cambian, las competencias permanecen. No pienses en títulos, piensa en habilidades, clientes y servicios. _Comentarios._ Ganas de aprender habilidades tengo, pero quizás me falta encontrar clientes y que éstos quieran los servicios que ofrezco.
+* **Reinventate** "dentro". Hazte un profesional nuevo en tu empresa actual. Conecta tus obligaciones con tus motivaciones, cambia contextos, define retos y encuentra apoyos. Comentarios: Creo que es algo que siempre he intentado. En mi actual empresa, las copias de seguridad se hacen totalmente distinto a como se  hacian antes de entrar, experimento y pruebo o trato de aprender a hacer las cosas de otra forma. 
