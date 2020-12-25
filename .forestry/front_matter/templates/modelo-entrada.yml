@@ -21,6 +21,7 @@ fields:
   name: Etiquetas
   label: Etiquetas
 pages:
+- content/entradas/al-final-lo-consegui.md
 - content/entradas/el-futuro-de-mi-trabajo.md
 - content/entradas/ese-dolor-tan-profundo.md
 - content/entradas/frente-al-espejo.md
