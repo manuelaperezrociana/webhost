@@ -1,6 +1,7 @@
 ---
 title: "Hacer o entretenerse"
 draft: false
+date: 2020-12-20T20:39:41+01:00
 ---
 En esta segunda entrada explicaré porque hago lo que hago.
 

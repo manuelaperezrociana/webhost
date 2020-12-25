@@ -1,6 +1,7 @@
 ---
 title: "Muere Soltero"
 draft: false
+date: 2020-12-20T20:39:41+01:00
 ---
 Leo esta noticia: [Muere soltero el hombre que acudió durante 73 años a un festival para buscar pareja](https://www.strambotic.com/soltero-recalcitrante/) en el [meneame](https://www.meneame.net/story/muere-soltero-hombre-acudio-durante-73-anos-festival-buscar) y me llama la atención, lo primero que pienso cuando leo el titular es una especie de pena porque si, verdaderamente lo ha intentado, con toda mi admiración por su constancia, no consiguió su objetivo. Luego leo los comentarios y, como para todo hay otras versiones, no lo conocemos verdadaremente. ¿Realmente era muy exigente? ¿Buscaba un ideal que no existe? "su alma gemela".
 
