@@ -1,6 +1,6 @@
 +++
 Categorias = []
-Etiquetas = []
+Etiquetas = ["expo92"]
 author = ""
 date = 1992-10-30T23:00:00Z
 description = ""
