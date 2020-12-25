@@ -13,7 +13,7 @@ Si quieres ponerte en contacto conmigo, manda el siguiente formulario:
         <div class="input-group-addon">
           <i class="fa fa-user"></i>
         </div>
-        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
+        <input id="name" name="name" placeholder="Introduzca su nombre" type="text" required="required" class="form-control">
       </div>
     </div>
   </div>
@@ -24,7 +24,7 @@ Si quieres ponerte en contacto conmigo, manda el siguiente formulario:
         <div class="input-group-addon">
           <i class="fa fa-envelope"></i>
         </div>
-        <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
+        <input id="email" name="email" placeholder="Su email" type="text" required="required" class="form-control">
       </div>
     </div>
   </div>
