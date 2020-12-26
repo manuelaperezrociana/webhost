@@ -4,7 +4,6 @@ Etiquetas = ["Libros", "Francis", "Huelga", "1994"]
 author = "Sponville"
 date = 1994-01-26T23:00:00Z
 description = ""
-draft = true
 title = "Huelga General 1994"
 
 +++
@@ -36,7 +35,7 @@ Bueno ya he puesto el agua a calentar, tengo hambre; también he puesto la lavad
 
 "Lo que sabemos, sentimos y queremos ¿Procede verdaderamente de nosotros o es mas bien el resultado de lo que viene surgiendo por nuestro ambiente, el fruto de la herencia cuyos fundamentos no hemos comprobado debidamente?"
 
-Es la eterna pregunta que nos hicimos hace 7 añosen primero de carrera u que aún no he sabido responder; cero que 30% procede de nosotros 60% del ambiente y entre 10 ó 20 % de la herencia.
+Es la eterna pregunta que nos hicimos hace 7 años en primero de carrera u que aún no he sabido responder; cero que 30% procede de nosotros 60% del ambiente y entre 10 ó 20 % de la herencia.
 
 ¡Que jaleo! Empiezo en azul, luego paso a rojo, después lo cambio, donde esta la fecha pongo la página y donde ésta, la fecha (Estamos a 15/10/95, estoy haciendo una transcripción, copio al ordenador mi antiguo diario). Tal vez la próxima ponga en azul o dos fechas, perdón, digo dos páginas una a modo diario en general para poder buscar en un índice y otro según el día en que me pongo a escribir.
 
@@ -50,17 +49,17 @@ Algún día tengo que volver a leer estos libros en la facultad:
 
 \- Personalidad y diferencias individuales, Eysenk Hans. J. 36/137.
 
-"Nuestro esfuerzo no se ha dirigido a presentar al lector una panoramica general de lo que muy diferentes tipos de psicólogos han tenido que decir sobre la personalidad, en vez de ello hemos intentado organizar un gran volumen de material sobre unos conceptos fundamentales y mostrar que estos conceptos fundamentales y mostrar que estos conceptos junto con sus aspectos causal y descripivo abarcan un área suficientemente grande de lo que normalmente se llama personalidad como para ser considerada un verdadero paradigma"
+"Nuestro esfuerzo no se ha dirigido a presentar al lector una panorámica general de lo que muy diferentes tipos de psicólogos han tenido que decir sobre la personalidad, en vez de ello hemos intentado organizar un gran volumen de material sobre unos conceptos fundamentales y mostrar que estos conceptos fundamentales y mostrar que estos conceptos junto con sus aspectos causal y descriptivo abarcan un área suficientemente grande de lo que normalmente se llama personalidad como para ser considerada un verdadero paradigma"
 
-Otra: Adler prefería buscar una descripción de la personalidad sobre lo que la persona en verdad hacía en su en su conducta, en vez de lo que decía acerca de si mismo en un concepto de yo "El psicólo prudente sabe que la conducta de una persona parte de su idea".
+Otra: Adler prefería buscar una descripción de la personalidad sobre lo que la persona en verdad hacía en su en su conducta, en vez de lo que decía acerca de si mismo en un concepto de yo "El psicólogo prudente sabe que la conducta de una persona parte de su idea".
 
 "El propósito de las emociones es el de crear una ventaja para la persona en cualquier situación en la que este a punto de involucrarse."
 
-pg. 111. "Sentimiento de inferioridad es un reconocimiento consciente o incosciente de defectos o desventajas físicas y psicológicas, puede basarse en una inferioridad física real o puede activarse por un juicio equivocado de la valía personal. (Estos juicios provienen de esos sentimientos infantiles de inferioridad que todos tenemos legítimamente, porque somos incompetentes en muchas cosas, pero que se superan al ganar amigos, lograr éxito en almenos algunos de nuestros esfuerzos.
+pg. 111. "Sentimiento de inferioridad es un reconocimiento consciente o inconsciente de defectos o desventajas físicas y psicológicas, puede basarse en una inferioridad física real o puede activarse por un juicio equivocado de la valía personal. (Estos juicios provienen de esos sentimientos infantiles de inferioridad que todos tenemos legítimamente, porque somos incompetentes en muchas cosas, pero que se superan al ganar amigos, lograr éxito en almenos algunos de nuestros esfuerzos.
 
 pg. 112. "Se dice qu una persona esta excesivamente motivada por sentimientos de inferioridad sufre complejos en el abismo entre un individuo y su meta sobrenaturalmente alta."
 
-pg. 441. CONDUCTA INMADURA: El individuo exhibe su conducta madura cuando percibe realmente de un modo extensional, es decir flexible y alerta, cuando no es defensivo. Acepata la responsabilidad de ser diferente a otras personas, acepta la responsabilidad de su propia conducta, evalua la experiencia en términos de la evidencia que capta sus propios sentidos, cambia su evaluación de la experiencia solo con base a la evidencia que capta sus propios sentidos (...) acepta a sus semejantes como indivíduos únicos diferentes a él, se aprecia a él mismo y aprecia a otros."
+pg. 441. CONDUCTA INMADURA: El individuo exhibe su conducta madura cuando percibe realmente de un modo extensional, es decir flexible y alerta, cuando no es defensivo. Acepata la responsabilidad de ser diferente a otras personas, acepta la responsabilidad de su propia conducta, evalua la experiencia en términos de la evidencia que capta sus propios sentidos, cambia su evaluación de la experiencia solo con base a la evidencia que capta sus propios sentidos (...) acepta a sus semejantes como individuos únicos diferentes a él, se aprecia a él mismo y aprecia a otros."
 
 Casi ná, y es que esto merecía escribirse en rojo, ¿O no? y más:
 
@@ -68,9 +67,9 @@ Casi ná, y es que esto merecía escribirse en rojo, ¿O no? y más:
 
 pg. 443. "El asesoraminento eficaz consiste en una relación definitamente estructurada y tolerante que permita al cliente ganar una compresión de él mismo hasta un grado que le permita dar pasos positivos."
 
-pg. 446. "El cambio de personalidad es iniciado por las actitudes que existen en el terapeuta, mas que por sus conocimientos, sus torias o sus técnicas."
+pg. 446. "El cambio de personalidad es iniciado por las actitudes que existen en el terapeuta, mas que por sus conocimientos, sus teorias o sus técnicas."
 
-Y otra vez yo. Hoy es Jueves, creo que los jueves es mi día de fiesta, me encierro casi todo el día en el cuarto oigo música o dedico mi tiempo a hacer las tareas domésticas, posiblemente hoy limpie el salón, para eso tengo que empezar a que terminen de cenar o que dejen de ver el televisor. Pero esta tarde quezás vaya al cine a ver el Piano, voy a ir con Reyes, una chica de la que quiero enamorarme, sería ideal, parece reunir todas las condiciones: Esta libre, es decir, no tiene ningún compromiso (acaba de salir de uno que le ha durado unos cinco años); no es exesivamente fea, y es que uno por lo menos tiene que ser capaz de mirarle la cara, no es baja, pero tampoco alta. (hasta ahora la he descrito con negaciones); pero es inteligente y llena de sentimientos, por lo menos sigue mis bromasy cuando hablo con ella por lo menos conecto.
+Y otra vez yo. Hoy es Jueves, creo que los jueves es mi día de fiesta, me encierro casi todo el día en el cuarto oigo música o dedico mi tiempo a hacer las tareas domésticas, posiblemente hoy limpie el salón, para eso tengo que empezar a que terminen de cenar o que dejen de ver el televisor. Pero esta tarde quizás vaya al cine a ver el Piano, voy a ir con Reyes, una chica de la que quiero enamorarme, sería ideal, parece reunir todas las condiciones: Esta libre, es decir, no tiene ningún compromiso (acaba de salir de uno que le ha durado unos cinco años); no es excesivamente fea, y es que uno por lo menos tiene que ser capaz de mirarle la cara, no es baja, pero tampoco alta. (hasta ahora la he descrito con negaciones); pero es inteligente y llena de sentimientos, por lo menos sigue mis bromas y cuando hablo con ella por lo menos conecto.
 
 LLevo un par de semanas tirándole los tejos, pero lo hago muy inconstantemente, pues o la veo para ir al cine o el Domingo en el trabajo pero ni un sitio ni el otro son lugares donde puedes mantener una conversación estable con una persona, hoy día de huelga no se si habrá cine, por eso voy allamar al cine para ver si es posible, si no, por lo menos me quedará tiempo de sobra para hacer la limpiza y seguir escriendo.
 
