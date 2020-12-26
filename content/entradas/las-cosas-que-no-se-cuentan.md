@@ -1,0 +1,25 @@
++++
+Categorias = ["Personal"]
+Etiquetas = ["Instituto", "Diario", "80"]
+author = "Sponville"
+date = 2020-12-25T23:00:00Z
+description = "Una nota de un libro: \"Esas cosas que no se cuentan son precísamente las que es obligado contar\""
+draft = true
+title = "Las cosas que no se cuentan"
+
++++
+Leyendo el libro de "El infinito en un junco" leo una parte personal en la que la autora confiesa que cuando fue niña sufrió bulling, el capítulo termina con una cita que dice "Esas cosas que no se cuentan son precisamente las que es obligado contar". Y pensando en mi niñez, no recuerdo haber sufrido hasta que llegué al Instituto. 
+
+A lo largo de los años en que he escrito mis diarios quizás hablé de esa estapa, y si no lo he hecho, podría ser ésta una buena ocasión. Si lo consigo cambiaré el título que al empezar he puesto "Las cosas que no se cuentan".
+
+Mi etapa en el instituto debió de comenzar, si hago bien los números, sería por 1982, yo venía de haber pasado los dos últimos cursos de la EGB en un seminario menor, un colegio privado religioso, les hubiera gustado que yo siguiera allí, pero el coste era muy elevado y no se lo podían permitir, así que de vuelta al público. Recuerdo que la madre maestra de un amigo mío, Tino,  me preguntó ¿Por qué estuve en un colegio privado y qué ganaba yo con eso? No le sude responder.
+
+El Insituto estaba en otro pueblo, lo que significaba que todos los días tenía que coger un autobús y regresar por la tarde, esos viajes, a pesar de que solo duraban menos de 30 minutos eran axfisiantes, literalmente, porque en esa época se permitia fumar, así que durante 4 o 5 años tragué humo y muchas veces me daba fatiga si el chófer no tenia cuidado en coger todas las curvas de esas carreteras rurales que se hicieron siemplemente echando asfalto en antiguos caminos rurales.
+
+En mi mochila, junto los libros muchas veces iban los bocadillos frios y supongo que algo de fruta, de la que no me acuerdo, para la hora de almorzar. Los chavales de otros pueblos nos veíamos obligados a deambular por las calles de ese pueblo durante dos o tres horas hasta que empezaban las clases de por la tarde. Otras veces recuerdo también mis padres se permitieron pagarme el comedor o incluso me daban dinero para comer en algún bar, no recuerdo que años fueron los buenos o los malos.
+
+Normalmente los chavales en esas horas se iban juntos según sus pueblos de procedencia, supongo que era lo normal, en clase estábamos irregularmente distribuidos, pero normalmente nos sentábamos los compañeros de la misma localidad. En mi Clase, tenía dos amigos del pueblo que se sentaban juntos, en otra época, antes en la EGB, fueron amigos mios pero no mucho, mis amigos de mi edad con los que hice la escuela primaria, habían quedado retrasados o habían preferido estudiar en las escuelas profesionales en vez del instituto de Bachillerato. Así que como nos sentábamos en pareja, y éramos tres, a mi me tocó compartir mesa con otro chico local que también estaba descolgado. había repetidores de mi pueblo, que eran temibles... y aqui empieza el Bulling, Los malos de los cursos mayores nos lo hicieron pasar mal, las "novatadas" el primer año era sufrir collejas mientras pasábamos por los pasillos, aunque contaron cosas peores de otros años, como que solían descolgar, cogidos de los pies y de cabeza, por los balcones a los alumnos de primero.
+
+Incluso cuando estaba en segundo de bachillerato nos perseguian, y lo peor también eran las clases de gimnasia, no sé porque a nosotros tres, se nos daba tan mal, tanto que las horas en las que había que ir al patio a correr, saltar y obligatoriamente jugar a algún deporte... eran una pesadilla, al día siguiente llenos de agujetas y recordando la vergüenza de estar con los otros chicos más diestros en los ejercicios que "nosotros".
+
+Poco a poco durante esos años hice un grupo de amigos del pueblo con los que los fines de semana me iba de pandilla, éramos 11 chicos y 11 chicas en la mejor época poniamos 25 pesetas todas las semanas para que mis primos "los sevillanos" compraran discos que traían a "la reunión" y en un tocadisco portátil ponerlos para bailar o disfrutar nuestras tardes de guateque.
