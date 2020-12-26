@@ -1,6 +1,6 @@
 +++
-Categorias = []
-Etiquetas = ["Libros", "Francis", "Huelga", "1994"]
+Categorias = ["Libros", "Psicolgía"]
+Etiquetas = ["Psicología", "Libros", "Francis", "Huelga", "1994"]
 author = "Sponville"
 date = 1994-01-26T23:00:00Z
 description = ""
