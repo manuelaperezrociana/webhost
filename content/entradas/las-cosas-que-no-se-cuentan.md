@@ -1,14 +1,13 @@
 +++
 Categorias = ["Personal"]
-Etiquetas = ["Instituto", "Diario", "80"]
+Etiquetas = ["Bulling", "Homofobia", "Instituto", "Diario", "80"]
 author = "Sponville"
 date = 2020-12-25T23:00:00Z
 description = "Una nota de un libro: \"Esas cosas que no se cuentan son precísamente las que es obligado contar\""
-draft = true
 title = "Las cosas que no se cuentan"
 
 +++
-Leyendo el libro de "El infinito en un junco" leo una parte personal en la que la autora confiesa que cuando fue niña sufrió bulling, el capítulo termina con una cita que dice "Esas cosas que no se cuentan son precisamente las que es obligado contar". Y pensando en mi niñez, no recuerdo haber sufrido hasta que llegué al Instituto. 
+Leyendo el libro de "El infinito en un junco" leo una parte personal en la que la autora confiesa que cuando fue niña sufrió bulling, el capítulo termina con una cita que dice "Esas cosas que no se cuentan son precisamente las que es obligado contar". Y pensando en mi niñez, no recuerdo haber sufrido hasta que llegué al Instituto.
 
 A lo largo de los años en que he escrito mis diarios quizás hablé de esa estapa, y si no lo he hecho, podría ser ésta una buena ocasión. Si lo consigo cambiaré el título que al empezar he puesto "Las cosas que no se cuentan".
 
@@ -23,3 +22,5 @@ Normalmente los chavales en esas horas se iban juntos según sus pueblos de proc
 Incluso cuando estaba en segundo de bachillerato nos perseguian, y lo peor también eran las clases de gimnasia, no sé porque a nosotros tres, se nos daba tan mal, tanto que las horas en las que había que ir al patio a correr, saltar y obligatoriamente jugar a algún deporte... eran una pesadilla, al día siguiente llenos de agujetas y recordando la vergüenza de estar con los otros chicos más diestros en los ejercicios que "nosotros".
 
 Poco a poco durante esos años hice un grupo de amigos del pueblo con los que los fines de semana me iba de pandilla, éramos 11 chicos y 11 chicas en la mejor época poniamos 25 pesetas todas las semanas para que mis primos "los sevillanos" compraran discos que traían a "la reunión" y en un tocadisco portátil ponerlos para bailar o disfrutar nuestras tardes de guateque.
+
+Quizás he sido muy preciso al decir que éramos 11 chicos y 11 chicas porque hubo una tarde que se me quedó marcada con esa cifra. Un chico que no pertenecía a la pandilla, quiso pasar las navidades próximas a uno de esos años, y para hacerlo había una norma no escrita en la que se preguntaban a cada miembro del grupo si podía unirse de facto al grupo, a pasarla juntos, pero lo que era algo que parecia iba a ser de hecho, todos los chavales masculinos menos yo y otro chico llamado manolito, votaron que no, mientras que todas las niñas votaron que sí, esta votación se hizo en presencia del chaval nuevo, y aunque había ganado el SI, el más gallito de todos los chicos dijo: -Si entra en la reunión ese, nosotros nos salimos-. Cuando el chico nuevo oyó esa sentencia, no pudo remediar echarse a llorar y salir del local humillado. ¿Y por qué? Por que era algo afeminado, o, como se dice ahora y entonces me enteré se dice, "tenía plumas". Ese día se me quedó marcado de como la intolerancia estaba asentada en mi pueblo. Esas cosas que no se cuentan son las que hay que contar. 
