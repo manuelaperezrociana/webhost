@@ -1,7 +1,7 @@
 +++
 Categorias = ["Cine"]
 Etiquetas = ["Películas"]
-author = ""
+author = "Sponville"
 date = 2020-12-26T23:00:00Z
 description = "Algunas películas que estoy viendo en Navidades"
 title = "Películas de Navidad"
