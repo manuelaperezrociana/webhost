@@ -1,6 +1,6 @@
 +++
 Categorias = ["Libros"]
-Etiquetas = ["Vacaciones", "Navidad"]
+Etiquetas = ["Navidad", "Vacaciones", "Navidad"]
 author = "Sponville"
 date = 2020-12-26T23:00:00Z
 description = "Resumen del año y vacaciones en estos días"
