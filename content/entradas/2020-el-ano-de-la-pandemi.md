@@ -4,7 +4,7 @@ Etiquetas = ["Fin de año"]
 author = "Sponville"
 date = 2020-12-30T23:00:00Z
 description = "Último día del año para despedirlo"
-title = "2020 El año de la pandemi"
+title = "2020 El año de la pandemia"
 
 +++
 Hoy acaba un año que pasará a la historia como uno de los peores año de la humanidad en mucho tiempo. Un virus que en sólo Estados Unidos ha provocado más muertes que los que murieron en la II Guerra Mundial.
