@@ -21,6 +21,7 @@ fields:
   name: Etiquetas
   label: Etiquetas
 pages:
+- content/entradas/2020-el-ano-de-la-pandemi.md
 - content/entradas/al-final-lo-consegui.md
 - content/entradas/albaniles-y-pintores.md
 - content/entradas/ayer-hoy-y-manana.md
